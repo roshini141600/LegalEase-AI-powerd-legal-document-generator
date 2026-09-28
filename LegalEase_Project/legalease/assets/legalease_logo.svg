@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="180" viewBox="0 0 640 180">
+  <rect width="640" height="180" rx="28" fill="#0b1220"/>
+  <g transform="translate(48 32)" fill="none" stroke="#dbe7f5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 0v105"/>
+    <path d="M20 20h100"/>
+    <path d="M70 20L20 78h100L70 20z"/>
+    <path d="M8 78c0 17 11 27 27 27s27-10 27-27"/>
+    <path d="M78 78c0 17 11 27 27 27s27-10 27-27"/>
+    <path d="M45 126h50"/>
+  </g>
+  <text x="190" y="82" fill="#ffffff" font-family="Georgia, serif" font-size="52" font-weight="700">LegalEase</text>
+  <text x="193" y="119" fill="#a9bad2" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">AI LEGAL DOCUMENT GENERATOR</text>
+</svg>
